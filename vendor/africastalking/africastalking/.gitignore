@@ -1,0 +1,7 @@
+vendor/
+tests/Fixtures.php
+.idea/
+/.phpunit.result.cache
+.phpunit.cache/
+.env
+
